@@ -34,6 +34,7 @@ public class StringClass {
 		String st2 = "NucleusTeq";
 		System.out.println(st.equals(st2));
 		System.out.println(st == st2);
+		
 
 	}
 
